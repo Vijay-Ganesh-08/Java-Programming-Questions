@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 public class ArmstrongNumber {
     public static void main(String[] args) {
-        int arm = 0, a, b, c, d, no;
+        int arm = 0, a, d, no;
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter any number : ");
         no = scanner.nextInt();
